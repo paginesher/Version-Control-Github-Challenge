@@ -1,3 +1,8 @@
-A terminal is essentially command lines that allow us to do task on a computer without the use of a graphical user interface.
-The main difference between Git and Github is that Git is an open-source tool installed locally to manage source code .GitHub on the other hand is an online service developers use to connect and upload or download resources .
-We use Github to manage , facilitate and collaborate on projects .
+ 1.A terminal is essentially command lines that allow us to do task on a computer
+ without the use of a graphical user interface.
+
+2.The main difference between Git and Github is that Git is an open-source tool
+ installed locally to manage source code .GitHub on the other hand is an online
+ service developers use to connect and upload or download resources .
+
+3.We use Github to manage , facilitate and collaborate on projects .
